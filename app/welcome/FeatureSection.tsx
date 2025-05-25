@@ -34,6 +34,7 @@ const FeatureSection: React.FC<FeatureSectionProps> = ({
             src={image}
             alt="Feature"
             className="relative z-10 w-full h-auto"
+            style={{ borderRadius: "20px" }}
           />
         </div>
 

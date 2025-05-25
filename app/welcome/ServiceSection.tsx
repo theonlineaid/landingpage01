@@ -6,19 +6,19 @@ const services = [
     title: "Geen code",
     description:
       "Installeer, verbind, klaar. Geen technische kennis vereist – gewoon klikken en gaan.",
-    image: "https://cdn-icons-png.flaticon.com/512/854/854878.png",
+    image: "https://cdn-icons-png.flaticon.com/512/1055/1055646.png",
   },
   {
     title: "Jouw [APP]",
     description:
       "Jouw instellingen, jouw regels. Wij factureren met jouw bestaande [APP]-configuratie.",
-    image: "https://cdn-icons-png.flaticon.com/512/565/565547.png",
+    image: "https://cdn-icons-png.flaticon.com/512/1048/1048953.png", // app integration
   },
   {
     title: "Flexibel",
     description:
       "Pas eenvoudig aan wat je wil. Geen invloed op je webshop, wel meer controle voor jou.",
-    image: "https://cdn-icons-png.flaticon.com/512/2917/2917993.png",
+    image: "https://cdn-icons-png.flaticon.com/512/4341/4341139.png",
   },
 ];
 

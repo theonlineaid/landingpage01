@@ -34,7 +34,7 @@ export function Welcome() {
           "Vestibulum sodales turpis rutrum velit",
           "rhoncus gravida. Aliquam mollis ligula eros",
         ]}
-        image="https://cdn.dribbble.com/userupload/16089877/file/original-dcd8b1527022ba216f4d85029545f833.png?resize=752x&vertical=center"
+        image="https://www.mspy.com/static/mspy/public/assets/images/redesign/features/websiteBookmarks/en/bookmarks@2x.png?v=v2"
         imageRight={false}
       />
 
@@ -49,12 +49,13 @@ export function Welcome() {
           "Vestibulum sodales turpis rutrum velit",
           "rhoncus gravida. Aliquam mollis ligula eros",
         ]}
-        image="https://cdn.dribbble.com/userupload/16089877/file/original-dcd8b1527022ba216f4d85029545f833.png?resize=752x&vertical=center"
+        image="https://i.ibb.co/Rr8YfGg/front-view-young-attractive-lady-colorful-flower-designed-shirt-blue-skirt-white-removebg-preview.png"
+        // image="https://cdn3d.iconscout.com/3d/premium/thumb/woman-sitting-chart-and-showing-growth-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--successful-success-achievement-leader-boss-women-business-pack-people-illustrations-3821328.png"
         imageRight={true}
       />
 
       <FeatureSection
-        subtitle="Facturen die zichzelf schrijven"
+        subtitle="Alles werkt zoals jij gewend bent"
         description="Geen handmatige fouten, geen dubbel werk. Elke bestelling wordt automatisch omgezet naar een correcte factuur in [APP] – precies zoals jij dat wil."
         bullets={[
           "Lorem ipsum dolor sit amet",
@@ -64,7 +65,7 @@ export function Welcome() {
           "Vestibulum sodales turpis rutrum velit",
           "rhoncus gravida. Aliquam mollis ligula eros",
         ]}
-        image="https://cdn.dribbble.com/userupload/16089877/file/original-dcd8b1527022ba216f4d85029545f833.png?resize=752x&vertical=center"
+        image="https://emplifi.io/wp-content/uploads/2024/10/header-nav-img-4.png"
         imageRight={false}
       />
 
@@ -80,7 +81,7 @@ export function Welcome() {
           "Geen technische kennis nodig",
           "Flexibel aan te passen",
         ]}
-        image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iXiVHxJdepZ9PormoKMWyP-9oWCnqkXrkw&s"
+        image="https://mir-s3-cdn-cf.behance.net/project_modules/1400/834404108113299.5fb6bb0a6877a.png"
         imageRight={true}
       />
 
@@ -92,7 +93,7 @@ export function Welcome() {
           "Geen technische kennis nodig",
           "Flexibel aan te passen",
         ]}
-        image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iXiVHxJdepZ9PormoKMWyP-9oWCnqkXrkw&s"
+        image="https://miro.medium.com/v2/resize:fit:2000/1*iBK-mVMjetmSZBjpQSgRdw.png"
         imageRight={false}
         button={{
           label: "Meer weten",
@@ -108,7 +109,7 @@ export function Welcome() {
           "Geen technische kennis nodig",
           "Flexibel aan te passen",
         ]}
-        image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iXiVHxJdepZ9PormoKMWyP-9oWCnqkXrkw&s"
+        image="https://www.mspy.com/static/mspy/public/assets/images/redesign/features/common/access@2x.png?v=v2"
         imageRight={true}
       />
 
