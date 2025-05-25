@@ -49,7 +49,7 @@ export function Welcome() {
           "Vestibulum sodales turpis rutrum velit",
           "rhoncus gravida. Aliquam mollis ligula eros",
         ]}
-        image="https://i.ibb.co/Rr8YfGg/front-view-young-attractive-lady-colorful-flower-designed-shirt-blue-skirt-white-removebg-preview.png"
+        image="https://i.ibb.co/C3sB4sMD/Gril-image.png"
         // image="https://cdn3d.iconscout.com/3d/premium/thumb/woman-sitting-chart-and-showing-growth-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--successful-success-achievement-leader-boss-women-business-pack-people-illustrations-3821328.png"
         imageRight={true}
       />
